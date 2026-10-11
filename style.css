@@ -546,3 +546,7 @@ input,select,textarea{font-size:16px}
 .open-btn:hover{transform:scale(1.04);animation:none}
 .open-btn:focus-visible{outline:2px solid #4A6A92;outline-offset:6px}
 #doors.open .open-btn{opacity:0;animation:none}
+
+/* ================= Simple small footer ================= */
+footer{background:none;background-image:none;padding:1.4rem 1rem 1.8rem;margin:0;text-align:center;border-top:1px solid rgba(138,166,196,.4)}
+footer p{font-family:'Cinzel',serif;font-size:.78rem;font-weight:400;font-style:normal;letter-spacing:.24em;text-transform:uppercase;color:#4A6A92;margin:0;line-height:1.4}
