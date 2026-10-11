@@ -1,0 +1,114 @@
+{
+  "pageTitle": "Shaan & Shaquib | Wedding Invitation",
+  "couple": {
+    "partner1": "Shaan-e-Usman",
+    "partner2": "Dr. Shaquib Zaki"
+  },
+  "hero": {
+    "label1": "Two hearts, one Promise, a Lifetime of Togetherness. \n",
+    "label2": "✦ THE BEGINNING OF FOREVER ✦"
+  },
+  "intro": "We are honored to welcome you to the Wedding ceremony of Shaan & Shaquib As they begin their journey together in faith and love, we thank you for being part of this blessed occasion ❤",
+  "event": {
+    "date": "2026-10-29T10:30:00+05:30",
+    "displayDate": "Thursday, Oct 29, 2026",
+    "displayTime": "7:00 PM Onwards"
+  },
+  "music": {
+    "src": "./music.mp3",
+    "autoplay": true
+  },
+  "heroImage": "",
+  "saveTheDate": "Save the Date",
+  "sections": {
+    "scratch": true,
+    "slideshow": false,
+    "countdown": true,
+    "program": true,
+    "preEvents": true,
+    "venue": true,
+    "transport": false,
+    "gifts": false,
+    "rsvp": true
+  },
+  "slideTitle": "Our Moments",
+  "countTitle": "Counting Down to Forever",
+  "slideshow": [
+    "https://picsum.photos/seed/veerzara1/900/1200",
+    "https://picsum.photos/seed/veerzara2/900/1200",
+    "https://picsum.photos/seed/veerzara3/900/1200",
+    "https://picsum.photos/seed/veerzara4/900/1200"
+  ],
+  "programTitle": "Program Timeline",
+  "programTimeline": [
+    {
+      "date": "Thursday, Oct 29, 2026",
+      "items": [
+        {
+          "time": "9:00 PM",
+          "title": "Arrival of Barat",
+          "desc": "We warmly welcome you.. !"
+        },
+        {
+          "time": "9:30 PM",
+          "title": "Nikkah",
+          "desc": "Your gracious presence is requested ❤"
+        },
+        {
+          "time": "8:00 PM onwards",
+          "title": "Dinner",
+          "desc": "Your gracious presence is requested ❤"
+        },
+        {
+          "time": "5:00 AM (from our residence)",
+          "title": "Rukhsati",
+          "desc": "Your gracious presence is requested ❤"
+        }
+      ]
+    }
+  ],
+  "venueTitle": "Venue",
+  "venue": {
+    "name": "Royal Marraige Garden",
+    "address": "Tatarpur Road, Bhagalpur, Bihar-812005",
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3608.7734745294133!2d86.9691447!3d25.244553600000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f04b1baa859039%3A0x4e09796bfa8763a3!2sRoyal%20marriage%20garden!5e0!3m2!1sen!2sin!4v1791696931596!5m2!1sen!2sin",
+    "mapLink": "https://maps.app.goo.gl/HtA2XACYEmwBwF4s9?g_st=aw",
+    "mapButton": "View on Google Maps"
+  },
+  "preTitle": "Pre-Wedding Events",
+  "preEvents": [
+    {
+      "date": "Monday, Oct 26, 2026",
+      "time": "7:30 PM",
+      "title": "Haldi Ceremony",
+      "place": "At Bride's House"
+    },
+    {
+      "date": "Tuesday, Oct 27, 2026",
+      "time": "7:30 PM",
+      "title": "Manjha & Shamiyana",
+      "place": "At Bride's House"
+    },
+    {
+      "date": "Wednesday, Jun 30, 2027",
+      "time": "7:30 PM",
+      "title": "Mehendi",
+      "place": "At Bride's House"
+    }
+  ],
+  "transport": {
+    "title": "Transportation",
+    "text": "Shuttle service will be available from the city center to the venue. Pickup point: Central Station at 3:30 PM."
+  },
+  "gifts": {
+    "title": "Gifts",
+    "text": "Your love, blessings, and presence are the greatest gifts we could ever ask for."
+  },
+  "rsvp": {
+    "title": "RSVP",
+    "send": "Send Message",
+    "thankYou": "Thank you! Your message has reached us."
+  },
+  "closing": "We can't wait to celebrate with you!",
+  "footer": "Made with ❤ © 2026"
+}
